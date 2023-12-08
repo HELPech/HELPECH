@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/HELPech/HELPech/master/assets/header1.jpg)
+![header](https://raw.githubusercontent.com/HELPech/HELPech/master/assets/header.jpg)
 
 Hi. I'm Pech. I am a Software Engineer from Cambodia 🇰🇭.
 
